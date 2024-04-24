@@ -1,1 +1,2 @@
 # Problem Statement: Building a Streamlit Application for Gemini
+This Python script is a Streamlit web application that uses the Google GenerativeAI library to create a question-answering demo with the Gemini model. It loads environment variables, configures the Google API key, defines functions to generate and display responses, and sets up the main interface where users input questions and receive generated responses.
